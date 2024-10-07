@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.renglonpar{
+    color:blue;
+    background-color: aquamarine;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#mifoto {
+    height: 40%;
+    width: 40%;
+}
+
+table {
+    margin: 0 auto; /* Centra la tabla */
+    border-collapse: collapse; /* Combina bordes de la tabla */
+}
+
+th, td {
+    border: 1px solid #333; /* Bordes de las celdas */
+    padding: 10px; /* Espacio dentro de las celdas */
+}
+
+th {
+    background-color: #f2f2f2; /* Color de fondo de los encabezados */
+}
+
+h3 {
+    margin-top: 20px; /* Espacio arriba del título de pasatiempos */
+}
+
+ul {
+    list-style-type: disc; 
+    padding-left: 20px;
+}
